@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <html>
 <<<<<<< HEAD
 <head>this is my title</head>
@@ -8,12 +9,32 @@ Hello this is Github testing
 TEXT MSG = "Hello this is change msg from E"
 
 =======
+ok
 <head>test file</head>
 <body>
 
 Hello this is testing file for github
 
 Testing of GitHub
+=======
+ 
+<html>
+<head>test file</head>
+<body>
+ 
+hHello i m herer now
+Againe change in mage
+ 
+
+Hello this is testing file for github
+
+ 
+Testing of GitHub
+
+File From D drive
+</body>
+</html>
+>>>>>>> 889df54556d924560e841101eaa23d9ad4ba6083
 
 File From E drive
 >>>>>>> master
