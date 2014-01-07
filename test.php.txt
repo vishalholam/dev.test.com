@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <html>
 <head>test file</head>
 <body>
@@ -5,6 +6,25 @@
 Hello this is testing file for github
 
 Testing of GitHub
+=======
+ <!---this is expanml of fetch and push---------->
+<html>
+<head>test file</head>
+<body>
+ 
+hHello i m herer now
+Againe change in mage
+ 
+
+Hello this is testing file for github
+
+ 
+Testing of GitHub
+
+File From D drive
+</body>
+</html>
+>>>>>>> 889df54556d924560e841101eaa23d9ad4ba6083
 
 File From E drive
 </body>
