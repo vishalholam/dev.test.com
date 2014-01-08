@@ -1,5 +1,15 @@
 <<<<<<< HEAD
 <html>
+<<<<<<< HEAD
+<head>this is my title</head>
+<body>this is Body section araa
+
+Hello this is Github testing
+
+TEXT MSG = "Hello this is change msg from E"
+
+=======
+ok
 <head>test file</head>
 <body>
 
@@ -27,5 +37,6 @@ File From D drive
 >>>>>>> 889df54556d924560e841101eaa23d9ad4ba6083
 
 File From E drive
+>>>>>>> master
 </body>
 </html>
