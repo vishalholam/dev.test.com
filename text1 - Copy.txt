@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Test file
 
 Changes from branch r2_test
+=======
+Test file
+>>>>>>> master
