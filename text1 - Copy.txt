@@ -1,31 +1,3 @@
-[33mcommit 3302b135d058af65e5eccd65d55affb73d126878[m
-Author: vishalholam@gmail.com <vishalholam@gmail.com>
-Date:   Thu Jan 2 16:22:39 2014 +0530
+Test file
 
-    starting tracking test.php
-
-[33mcommit bedad2516901f1e3b99028d64138666e51643846[m
-Author: vishalholam@gmail.com <vishalholam@gmail.com>
-Date:   Thu Jan 2 16:17:37 2014 +0530
-
-    intial commit
-
-[33mcommit 5a23e83ef045750a9705c51ba3d9ab202c0a9a8a[m
-Author: vishalholam <vishalholam@gmail.com>
-Date:   Wed Jan 1 20:57:05 2014 +0530
-
-    coomit in file D
-
-[33mcommit 7af44d5d29f1d66114fd3fcfd4a86b7b807bb0e3[m
-Author: vishalholam <vishalholam@gmail.com>
-Date:   Wed Jan 1 20:49:47 2014 +0530
-
-    finalRollback
-
-[33mcommit 7b1c0edbc4b6652822ac0a3f86541fe9eda7dfe0[m
-Author: vishalholam <vishalholam@gmail.com>
-Date:   Wed Jan 1 20:16:18 2014 +0530
-
-    commit
-    
-    commit
+Changes from branch r2_test
