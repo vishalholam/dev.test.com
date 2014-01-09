@@ -3,6 +3,7 @@
 /*******************/
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Free1
 Free2
 Free3
@@ -16,3 +17,10 @@ Free1
 =======
 /*******************/
 >>>>>>> parent of a0a8384... Free1
+=======
+this is 2nd changes
+
+This is 3rd chages
+
+this is change for verion 1.4
+>>>>>>> f3ee9d29d054e5cdd40b892b2a688f097e651152
