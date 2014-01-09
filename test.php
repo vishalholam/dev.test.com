@@ -7,8 +7,9 @@
     </div>
     
     <div>Current Directory : EEEE<div>
-    
-</body>
-<html>
+
+
+    <div>E is content Directoty</div>    
+
 </body>
 </html>
