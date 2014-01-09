@@ -1,6 +1,10 @@
 /*******************/
 
+<<<<<<< HEAD
 Free1
 Free2
 Free3
 Free4
+=======
+Free1
+>>>>>>> parent of 0d85b70... Free2
